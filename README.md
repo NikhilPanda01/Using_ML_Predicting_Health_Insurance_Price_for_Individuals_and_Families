@@ -1,4 +1,4 @@
-![Predicting for Health Insurance Price for Individuals and Families ](https://github.com/NikhilPanda01/Using_ML_Predicting_Health_Insurance_Price_for_Individuals_and_Families/assets/114555468/66c07cfe-626e-4639-b075-c605b1fc21bd)
+![Predicting for Health Insurance Price for Individuals and Families _clipdrop-relight](https://github.com/NikhilPanda01/Using_ML_Predicting_Health_Insurance_Price_for_Individuals_and_Families/assets/114555468/930d0c0d-a3e0-4577-aa56-360103216a16)
 
 ---
 
