@@ -1,4 +1,5 @@
-![Types-of-Insurances-1](https://github.com/NikhilPanda01/Using_ML_Predicting_Health_Insurance_Price_for_Individuals_and_Families/assets/114555468/66a00fff-5609-4a9c-b0b7-ba07bcafa99c)
+![Predicting for Health Insurance Price for Individuals and Families ](https://github.com/NikhilPanda01/Using_ML_Predicting_Health_Insurance_Price_for_Individuals_and_Families/assets/114555468/66c07cfe-626e-4639-b075-c605b1fc21bd)
+
 ---
 
 # Project Title: Predicting Health Insurance Price for Individuals and Families
