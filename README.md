@@ -78,5 +78,4 @@ I also want to mention some of the limitations of this project and what could be
 - We could also retrain the model without the least predictive features.
 - We could also do some more feature engineering and feature scaling to get better Accuracy.
 - This is my first machine-learning project with a large dataset. Though I'm currently familiar with a few models, I'm open to considering additional models, including neural networks and other classification techniques.
-- Find the codes of this project on my GitHub profile [here.]
--  Link For [ipynb_file.](https://github.com/NikhilPanda01/Using_ML_Predicting_Health_Insurance_Price_for_Individuals_and_Families/blob/main/Predicting%20Health%20Insurance%20Price%20for%20Individuals%20and%20Families.ipynb)
+-  Find the codes of this project on my GitHub profile [**Here**.](https://github.com/NikhilPanda01/Using_ML_Predicting_Health_Insurance_Price_for_Individuals_and_Families/blob/main/Predicting%20Health%20Insurance%20Price%20for%20Individuals%20and%20Families.ipynb)
